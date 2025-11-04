@@ -1,8 +1,1 @@
 Nuestra historia como programadores
-
-<<<<<<< HEAD
-en nuestro colegio nos han enseñado python, html, css y un poco de javascript 
-=======
-
-nuestros nombres son, alejo lopez, joaquin correa, franco favorito, vivimos en cordoba capital, nos gusta la programacion.
->>>>>>> 75610e49a679954d7975c0c07fb9fea410939ec5
