@@ -1,1 +1,5 @@
 Nuestra historia como programadores
+Experiencia laboral:
+-Conocemos programas de pseudocodigo y diagrama de flujo
+-Multiples programas imperativos (Python,Js,Html,Css)
+-Conocimiento basico de arduino
