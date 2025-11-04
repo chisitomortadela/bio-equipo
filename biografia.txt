@@ -1,1 +1,3 @@
 Nuestra historia como programadores
+
+en nuestro colegio nos han enseñado python, html, css y un poco de javascript
